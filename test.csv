@@ -1,0 +1,19 @@
+key1,value1,comment1
+key2,value2,comment2
+key3,value3,comment3
+key4,value4,comment4
+key5,value5,
+key6,value6,comment6
+key7,value7,
+key8,value8,comment8
+section,new sect,sect comment
+key1,value1,comment1
+key2,value2,comment2
+key3,value3,comment3
+
+key4,value4,comment4
+key5,value5,comment5
+key6,value6,comment6
+Section,new sect
+key7,value7,comment7
+key8,value8,comment8
