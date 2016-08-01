@@ -22,7 +22,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+To run:
+
+bundle exec bin/MobileStringConverter convert FILNAME
+bundle exec bin/MobileStringConverter create_template
 
 ## Development
 
